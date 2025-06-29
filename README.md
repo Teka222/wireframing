@@ -14,3 +14,21 @@ Wireframing is a crucial step in the design process because it:
 - Saves time and resources by facilitating early feedback and changes.
 
 Wireframes act as a foundation for the overall design and development, ensuring that the user interface meets both user needs and project goals.
+
+---
+
+## Key Elements of Wireframing
+
+Wireframes consist of several key elements that contribute to the overall design and user experience:
+
+### 1. Layout Structure
+This defines the arrangement and organization of different elements on a page or screen. It sets the foundation for how users will navigate and interact with the interface.  
+*Example:* Placing the header at the top, content in the center, and footer at the bottom to create a clear visual hierarchy.
+
+### 2. Navigation
+Navigation elements guide users through the application or website. This includes menus, buttons, links, and other controls.  
+*Example:* A sidebar menu or top navigation bar helps users find important sections quickly.
+
+### 3. Content Placement
+This refers to where and how text, images, and other media are positioned within the wirefram
+
